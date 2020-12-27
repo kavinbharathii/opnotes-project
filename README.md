@@ -11,4 +11,4 @@ data. It uses Django on the backend, css for styles and html for the templates.<
 
 <p>It has a Heroku Postgres database, so it is usable.</p>
 
-<a href="opnotes.herokuapp.com">Link to project</a>
+<a href="http://opnotes.herokuapp.com/">Link to project</a>
