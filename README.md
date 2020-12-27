@@ -5,7 +5,7 @@ It is a small project to learn about Django and web development
 
 <h3>OpNotes - Notes for optimists</h3>
 
-![](images/demo.png)
+![](images/updated%20demo.png)
 
 The Login Form:
 ![](images/login%20demo.png)
