@@ -5,6 +5,8 @@ It is a small project to learn about Django and web development
 
 <h3>OpNotes - Notes for optimists</h3>
 
+![]{images/demo.png)
+
 <p>"OpNotes" name sounded cool to me and the line "Notes for Optimists" was soo professional sounding.
 It is a notes taking app with CRUD functionality, and user authentication and served with user specific
 data. It uses Django on the backend, css for styles and html for the templates.</p>
