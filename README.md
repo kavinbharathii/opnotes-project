@@ -3,6 +3,11 @@
 Opnotes is a notes-app created with the Django web development framework, and python.
 It is a small project to learn about Django and web development
 
+-It has Login, Logout, Register functionalities
+-It has user specific pages so you can have your notes be personalized
+-It has a postgres database to save your data.
+-It has a clean and intuitive user interface
+
 <h3>OpNotes - Notes for optimists</h3>
 
 ![](images/updated%20demo.png)
