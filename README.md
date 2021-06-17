@@ -13,8 +13,7 @@ The Login Form:
 The Register Form:
 ![](images/register%20demo.png)
 
-<p>"OpNotes" name sounded cool to me and the line "Notes for Optimists" was soo professional sounding.
-It is a notes taking app with CRUD functionality, and user authentication and served with user specific
+<p>It is a notes taking app with CRUD functionality, and user authentication and served with user specific
 data. It uses Django on the backend, css for styles and html for the templates.</p>
 
 <p>It has a Heroku Postgres database, so it is usable.</p>
